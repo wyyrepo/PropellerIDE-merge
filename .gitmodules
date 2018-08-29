@@ -1,0 +1,9 @@
+[submodule "src/memorymap"]
+	path = src/memorymap
+	url = https://github.com/wangyangyangisme/memorymap.git
+[submodule "src/projectview"]
+	path = src/projectview
+	url = https://github.com/parallaxinc/projectview.git
+[submodule "src/propman"]
+	path = src/propellermanager
+	url = https://github.com/parallaxinc/PropellerManager
